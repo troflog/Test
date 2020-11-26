@@ -1,7 +1,10 @@
 Hei du der.
 1.Eg er glad.
-2.Lynet er best. 
-3.Vi er appy
+2.Edderkoppen er glad.
+3.Vi er happy
 4.Alle er glade.
 
 Dette er ein annan del av fila.
+
+Dette legger eg på heilt på slutten av fila. 
+Burde gå greit å merge inn.
