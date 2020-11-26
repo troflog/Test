@@ -1,7 +1,7 @@
 Hei du der.
 1.Eg er glad.
 2.Lynet er best. 
-3.Vi er happy
+3.Vi er appy
 4.Alle er glade.
 
 Dette er ein annan del av fila.
