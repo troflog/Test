@@ -8,3 +8,5 @@ Dette er ein annan del av fila.
 
 Dette legger eg på heilt på slutten av fila. 
 Burde gå greit å merge inn.
+
+Dette har vi lagt til i skya (git).
